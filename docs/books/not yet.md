@@ -1,1 +1,3 @@
-![image](../assets/images/under.jpg)
+![image][def]
+
+[def]: ../assets/images/under.jpg
